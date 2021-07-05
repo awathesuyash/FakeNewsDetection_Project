@@ -1,0 +1,2 @@
+# FakeNewsDetection_Project
+Basic 
